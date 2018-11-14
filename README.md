@@ -4,7 +4,7 @@ The repository for the SNU course on the fundamentals and applications of cognit
 ## References
 * Jerome R. Busemeyer and Adele Diederich (2009). _Cognitive Modeling_. SAGE Publications, Inc.
 
-## Assignments
+## Programming Assignments
 1. 00 
 1. 00
 1. 00
