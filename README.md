@@ -12,8 +12,8 @@ The repository for the SNU course on the fundamentals and applications of cognit
 5. 00
 6. 00
 7. The Poisson distibution
-  1. Execute the Poisson spike generator.
-  2. Draw the distribution of the generated Poisson spikes.
+    1. Execute the Poisson spike generator.
+    2. Draw the distribution of the generated Poisson spikes.
 8. 00
 9. Implement the **prototype model** on pages from 16 to 23 in the textbook. Any programming language can be used.
 10. Implement the **examplar model** on pages from 23 to 25 in the textbook. Any programming language can be used.
