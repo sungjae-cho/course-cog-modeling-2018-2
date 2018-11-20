@@ -56,7 +56,6 @@ def main():
 
     print("Weights after the delta rule update:")
     print(weights)
-    print("If every wieght decreased, the implementation is correct.")
 
     plot_activations(s1_detectors, s2_detectors, activations)
 
