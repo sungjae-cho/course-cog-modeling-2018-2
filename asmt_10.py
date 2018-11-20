@@ -5,7 +5,6 @@ Textbook: Busemeyer, J. R., & Diederich, A. (2010). Cognitive Modeling. SAGE.
 Course: The Fundamentals and Applications of Cognitive Modeling
 Author: Sungjae Cho
 """
-import math
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
